@@ -1,0 +1,8 @@
+<templateSet group="surround">
+  <template name="//=" value="// === $TITLE$ ===&#10;// ^^^ $TITLE$ ^^^" description="Start class section" toReformat="false" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

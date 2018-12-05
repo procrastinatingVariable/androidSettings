@@ -1,0 +1,10 @@
+<templateSet group="html/xml">
+  <template name="constr" value="app:layout_constraint$DIRECTION$_to$TARGET_DIRECTION$Of=&quot;$TARGET$&quot;" description="add constraint attribute" toReformat="false" toShortenFQNames="true">
+    <variable name="DIRECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TARGET_DIRECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TARGET" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,29 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="Hack" />
+    <option name="SECONDARY_FONT_FAMILY" value="Monospaced" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern useCustomColors="true" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="bf1300" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+    </pattern>
+    <pattern icon="question" useCustomColors="true" pattern="\bquirk\b.*">
+      <option name="FOREGROUND" value="d29400" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+    </pattern>
+    <pattern icon="question" useCustomColors="true" pattern="\bimp\b.*">
+      <option name="FOREGROUND" value="61bf26" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+    </pattern>
+  </component>
+</application>

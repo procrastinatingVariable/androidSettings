@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="gram" type="PLAIN_TEXT" />
+      <mapping ext="dmp" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="dict" type="PLAIN_TEXT" />
+      <mapping ext="bundle" type="XML" />
+      <mapping pattern="demo_database" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
