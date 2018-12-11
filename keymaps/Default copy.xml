@@ -25,6 +25,12 @@
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="Git.Stash">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt s" />
+  </action>
+  <action id="Git.Unstash">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt u" />
+  </action>
   <action id="MakeModule" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="j" />
