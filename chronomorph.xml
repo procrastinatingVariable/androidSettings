@@ -1,0 +1,9 @@
+<application>
+  <component name="ChronomorphSettings">
+    <option name="useDayCycle" value="false" />
+    <location latitude="0" longitude="0" />
+    <daySettings />
+    <nightSettings />
+    <option name="chronoEntries" />
+  </component>
+</application>
