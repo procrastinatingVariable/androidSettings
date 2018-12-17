@@ -28,6 +28,9 @@
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="Git.Stash">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt s" />
   </action>
