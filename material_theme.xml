@@ -2,7 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.1.5-2018.1" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="accentColor" value="FF9800" />
+    <option name="accentColor" value="E91E63" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="25" />
     <option name="isCompactStatusBar" value="true" />
