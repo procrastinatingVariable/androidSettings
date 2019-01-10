@@ -62,6 +62,9 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="shift alt f6" />
+  </action>
   <action id="template.create.ActivityEmpty Activity">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt a" />
   </action>
