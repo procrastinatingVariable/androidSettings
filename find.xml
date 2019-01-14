@@ -7,7 +7,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*Fragment.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,8 +19,8 @@
     <mask>.gradle</mask>
     <mask>.java</mask>
     <mask>*Activity.java</mask>
+    <mask>*Fragment.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*Fragment.java</mask>
   </component>
 </application>
