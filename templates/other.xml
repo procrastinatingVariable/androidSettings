@@ -1,0 +1,10 @@
+<templateSet group="other">
+  <template name="cifn" value="$VAR$ == null ? $DEFAULT$ : $VAR$$END$" description="Conditional &quot;if null&quot; statement with default value" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFAULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
