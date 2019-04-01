@@ -56,6 +56,9 @@
     <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
   <action id="RecentFiles" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
@@ -74,6 +77,7 @@
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="shift alt f6" />
   </action>
+  <action id="tasks.switch" />
   <action id="template.create.ActivityEmpty Activity">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt a" />
   </action>
