@@ -14,6 +14,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="SGabitul" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/antoniolg/Kotlin-for-Android-Developers" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Gabriel\Android" />
