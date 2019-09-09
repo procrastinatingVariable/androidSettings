@@ -27,7 +27,7 @@
     <mask>bank_account*.xml</mask>
     <mask>fragment*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
