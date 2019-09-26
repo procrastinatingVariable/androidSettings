@@ -46,6 +46,9 @@
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="k" />
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt k" />
   </action>
+  <action id="KotlinConsoleREPL">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="MakeModule" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="j" />
