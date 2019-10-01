@@ -12,7 +12,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="SGabitul" />
+          <option name="userName" value="gabriel.stefan@adonissoft.com" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/antoniolg/Kotlin-for-Android-Developers" />
@@ -40,6 +40,10 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/elye/demo_android_dagger_modules_migrate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/hdsoftwaredev/moneymailme-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
