@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/avaneeshkumarmaurya/Barcode-Reader.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alphamu/android-MVVM-DataBinding-FormExample.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Gabriel\Android" />
