@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt,*.xml" />
+    <option name="FILE_MASK" value="*.kt,*.xml,*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -35,5 +35,6 @@
     <mask>*.xml</mask>
     <mask>*.kt</mask>
     <mask>*.kt,*.xml</mask>
+    <mask>*.kt,*.xml,*.java</mask>
   </component>
 </application>
