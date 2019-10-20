@@ -1,15 +1,15 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'Tengo'" />
-    <option name="defaultScopeName" value="Project 'Tengo'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Tengo'" />
-    <option name="FILE_MASK" value="*.xml,*.java" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -32,10 +32,10 @@
     <mask>*ViewModel.kt</mask>
     <mask>*.java</mask>
     <mask>*.java,*.kt</mask>
-    <mask>*.kt</mask>
     <mask>*.kt,*.xml</mask>
     <mask>*.kt,*.xml,*.java</mask>
     <mask>*.xml</mask>
     <mask>*.xml,*.java</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
