@@ -19,6 +19,9 @@
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="ChooseDebugConfiguration" />
+  <action id="CollapseDocComments">
+    <keyboard-shortcut first-keystroke="alt subtract" second-keystroke="c" />
+  </action>
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="alt d" second-keystroke="alt c" />
   </action>
@@ -32,6 +35,9 @@
   </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="ExpandDocComments">
+    <keyboard-shortcut first-keystroke="alt add" second-keystroke="c" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt b" />
