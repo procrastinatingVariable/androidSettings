@@ -114,4 +114,7 @@
   <action id="template.create.FragmentFragment (with ViewModel)">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt g" />
   </action>
+  <action id="template.create.XMLLayout XML File">
+    <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt l" />
+  </action>
 </keymap>
