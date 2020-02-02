@@ -34,8 +34,8 @@
     <mask>*.xml,*.java</mask>
     <mask>*.java,*kt</mask>
     <mask>*.java,*.kt</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
