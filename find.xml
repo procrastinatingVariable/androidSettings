@@ -39,6 +39,7 @@
     <mask>*.java,*.kt</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
+    <mask>*.jv</mask>
     <mask>*.xml</mask>
   </component>
 </application>
