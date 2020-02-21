@@ -98,6 +98,10 @@
           <option name="url" value="git@bitbucket.org:hdsoftwaredev/moneymailme-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:adonissoft/bookmytreat-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Gabriel\Android" />
