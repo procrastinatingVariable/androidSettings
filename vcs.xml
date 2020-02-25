@@ -12,7 +12,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="gabriel.stefan@adonissoft.com" />
+          <option name="userName" value="SGabitul" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/antoniolg/Kotlin-for-Android-Developers" />
@@ -100,6 +100,10 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="git@bitbucket.org:adonissoft/bookmytreat-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://SGabitul@bitbucket.org/adonissoft/bookmytreat-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
