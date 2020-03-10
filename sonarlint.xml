@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9adfccdf9ddf9bdf99df9cdf92dfcbdf9bdfccdfc8df99dfcedfcbdf9ddfccdf9adf9bdf93df99dfccdf9edf9edfccdf9edf9edf9adf9edf9cdf9fdfcedf93dfccdfc9dfcbdf92df9fdf98df98df98</token>
+          <option name="name" value="Luxon Wallet" />
+          <organizationKey>luxonpay</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
