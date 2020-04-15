@@ -115,4 +115,7 @@
       </rules>
     </arrangement>
   </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  </codeStyleSettings>
 </code_scheme>
