@@ -6,4 +6,11 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="backedLd" value="private val _$name$ = MutableLiveData&lt;$type$&gt;()&#10;val $name$: LiveData&lt;$type$&gt;&#10;    get() = _$name$" description="Generates an imutable LiveData property with a MutableLiveData backing field" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
