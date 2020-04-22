@@ -51,6 +51,7 @@
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt u" />
   </action>
+  <action id="IntroduceTypeAlias" />
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="k" />
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt k" />
