@@ -8,10 +8,13 @@
         <entry>.*showHomeAsUp</entry>
         <entry>showHomeAsUp</entry>
         <entry>showhomeasup</entry>
+        <entry>action_card</entry>
+        <entry>R.id.action_currencies</entry>
+        <entry>action_currencies</entry>
       </history-search>
       <history-cmd>
-        <entry>help</entry>
         <entry>help easymotion.txt</entry>
+        <entry>help</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -34,7 +37,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -49,6 +52,24 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed L</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
@@ -60,7 +81,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferAmountFragment.kt" timestamp="1588329528342">
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferAmountFragment.kt" timestamp="1588336050176">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
@@ -72,6 +93,19 @@
         <mark key="]" line="99" column="79" />
         <mark key="^" line="99" column="40" />
         <mark key="." line="99" column="79" />
+      </file>
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/activity/DashboardActivity.kt" timestamp="1588339127351">
+        <mark key="'" line="203" column="17" />
+        <mark key="[" line="192" column="38" />
+        <mark key="]" line="192" column="66" />
+        <mark key="^" line="192" column="66" />
+        <mark key="." line="192" column="65" />
+      </file>
+      <file name="/Kotlin Console" timestamp="1588338139485">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/CurrenciesFragment.kt" timestamp="1588339198490">
+        <mark key="'" line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -85,41 +119,73 @@
       <jump line="105" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferFragment.kt" />
       <jump line="83" column="23" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferAmountFragment.kt" />
       <jump line="77" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferAmountFragment.kt" />
+      <jump line="197" column="8" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/activity/DashboardActivity.kt" />
+      <jump line="145" column="22" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/activity/DashboardActivity.kt" />
+      <jump line="168" column="8" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/activity/DashboardActivity.kt" />
+      <jump line="11" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/activity/DashboardActivity.kt" />
+      <jump line="144" column="16" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/activity/DashboardActivity.kt" />
+      <jump line="214" column="42" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/activity/DashboardActivity.kt" />
+      <jump line="182" column="38" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/activity/DashboardActivity.kt" />
+      <jump line="192" column="17" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/activity/DashboardActivity.kt" />
+      <jump line="203" column="17" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/activity/DashboardActivity.kt" />
+      <jump line="2" column="24" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/CurrenciesFragment.kt" />
+      <jump line="3" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/CurrenciesFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoKGN1cnJlbmN5QW1vdW50SW5wdXQpIHsKICAgICAgICAgICAgc2V0T25XYWxsZXRTZWxlY3RlZExpc3RlbmVyIHsgd2FsbGV0IC0+Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoKGN1cnJlbmN5QW1vdW50SW5wdXQpIHsKICAgICAgICAgICAgc2V0T25XYWxsZXRTZWxlY3RlZExpc3RlbmVyIHsgd2FsbGV0IC0+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name=":" type="4">
-        <text>help easymotion.txt</text>
+      <register name="&quot;" type="4">
+        <text>CardFragment.navigator()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KSA=</text>
+        <text>CardFragment.navigator()</text>
       </register>
       <register name="/" type="4">
-        <text>showhomeasup</text>
+        <text>action_currencies</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGFzaGJvYXJkVGFiLkNBUkQgLT4gUi5pZC5hY3Rpb25fY3VycmVuY2llcwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGFzaGJvYXJkVGFiLkNBUkQgLT4gUi5pZC5hY3Rpb25fY3VycmVuY2llcwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGFzaGJvYXJkVGFiLkNBUkQgLT4gUi5pZC5hY3Rpb25fY3VycmVuY2llcwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGFzaGJvYXJkVGFiLkNBUkQgLT4gUi5pZC5hY3Rpb25fY3VycmVuY2llcwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBib3R0b21CYXIuaXNCZWhhdmlvclRyYW5zbGF0aW9uRW5hYmxlZCA9IGZhbHNlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgYWRhcHRlciA9IEFIQm90dG9tTmF2aWdhdGlvbkFkYXB0ZXIodGhpcywgUi5tZW51LmJvdHRvbV9uYXZpZ2F0aW9uX21lbnUpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhZGFwdGVyLnNldHVwV2l0aEJvdHRvbU5hdmlnYXRpb24oYm90dG9tQmFyKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhZGFwdGVyLnNldHVwV2l0aEJvdHRvbU5hdmlnYXRpb24oYm90dG9tQmFyKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoKGN1cnJlbmN5QW1vdW50SW5wdXQpIHsKICAgICAgICAgICAgc2V0T25XYWxsZXRTZWxlY3RlZExpc3RlbmVyIHsgd2FsbGV0IC0+Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>help</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>showhomeasup</last-search>
+      <last-search>action_currencies</last-search>
       <last-offset />
-      <last-pattern>showhomeasup</last-pattern>
+      <last-pattern>action_currencies</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

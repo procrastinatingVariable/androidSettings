@@ -18,6 +18,7 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="ChangesView.UnshelveSilently" />
   <action id="ChooseDebugConfiguration" />
   <action id="CollapseDocComments">
     <keyboard-shortcut first-keystroke="alt subtract" second-keystroke="c" />
@@ -51,13 +52,14 @@
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt u" />
   </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
   <action id="IntroduceTypeAlias" />
   <action id="Kotlin.NewFile">
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="k" />
     <keyboard-shortcut first-keystroke="alt n" second-keystroke="alt k" />
-  </action>
-  <action id="KotlinConsoleREPL">
-    <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="MakeModule" />
   <action id="NewClass">
