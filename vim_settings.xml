@@ -9,7 +9,12 @@
         <entry>showHomeAsUp</entry>
         <entry>showhomeasup</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>help</entry>
+        <entry>help easymotion.txt</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -26,7 +31,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed K</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -43,6 +48,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferAmountFragment.kt" timestamp="1588290486505">
+        <mark key="[" line="77" column="8" />
+        <mark key="]" line="77" column="8" />
+        <mark key="." line="77" column="7" />
+        <mark key="^" line="77" column="8" />
+      </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferFragment.kt" timestamp="1587666903383">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="99" column="35" />
@@ -60,15 +71,23 @@
       <jump line="98" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferFragment.kt" />
       <jump line="107" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferFragment.kt" />
       <jump line="105" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferFragment.kt" />
+      <jump line="83" column="23" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferAmountFragment.kt" />
+      <jump line="77" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferAmountFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoKGN1cnJlbmN5QW1vdW50SW5wdXQpIHsKICAgICAgICAgICAgc2V0T25XYWxsZXRTZWxlY3RlZExpc3RlbmVyIHsgd2FsbGV0IC0+Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoKGN1cnJlbmN5QW1vdW50SW5wdXQpIHsKICAgICAgICAgICAgc2V0T25XYWxsZXRTZWxlY3RlZExpc3RlbmVyIHsgd2FsbGV0IC0+Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KSA=</text>
+      <register name=":" type="4">
+        <text>help easymotion.txt</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">KSA=</text>
@@ -90,7 +109,7 @@
   <component name="VimSettings">
     <state version="6" enabled="false" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
