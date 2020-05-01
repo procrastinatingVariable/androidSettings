@@ -104,8 +104,12 @@
       <file name="/Kotlin Console" timestamp="1588338139485">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/CurrenciesFragment.kt" timestamp="1588339198490">
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/CurrenciesFragment.kt" timestamp="1588339329566">
         <mark key="'" line="3" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -130,12 +134,13 @@
       <jump line="203" column="17" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/activity/DashboardActivity.kt" />
       <jump line="2" column="24" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/CurrenciesFragment.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/CurrenciesFragment.kt" />
+      <jump line="5" column="3" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/CurrenciesFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>CardFragment.navigator()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciB2aWV3Cg==</text>
       </register>
       <register name="-" type="4">
         <text>CardFragment.navigator()</text>
@@ -144,7 +149,7 @@
         <text>action_currencies</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGFzaGJvYXJkVGFiLkNBUkQgLT4gUi5pZC5hY3Rpb25fY3VycmVuY2llcwo=</text>
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciB2aWV3Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRGFzaGJvYXJkVGFiLkNBUkQgLT4gUi5pZC5hY3Rpb25fY3VycmVuY2llcwo=</text>
@@ -156,19 +161,19 @@
         <text encoding="base64">ICAgICAgICAgICAgRGFzaGJvYXJkVGFiLkNBUkQgLT4gUi5pZC5hY3Rpb25fY3VycmVuY2llcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib3R0b21CYXIuaXNCZWhhdmlvclRyYW5zbGF0aW9uRW5hYmxlZCA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGFzaGJvYXJkVGFiLkNBUkQgLT4gUi5pZC5hY3Rpb25fY3VycmVuY2llcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYWRhcHRlciA9IEFIQm90dG9tTmF2aWdhdGlvbkFkYXB0ZXIodGhpcywgUi5tZW51LmJvdHRvbV9uYXZpZ2F0aW9uX21lbnUpCg==</text>
+        <text encoding="base64">ICAgICAgICBib3R0b21CYXIuaXNCZWhhdmlvclRyYW5zbGF0aW9uRW5hYmxlZCA9IGZhbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyLnNldHVwV2l0aEJvdHRvbU5hdmlnYXRpb24oYm90dG9tQmFyKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWRhcHRlciA9IEFIQm90dG9tTmF2aWdhdGlvbkFkYXB0ZXIodGhpcywgUi5tZW51LmJvdHRvbV9uYXZpZ2F0aW9uX21lbnUpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBhZGFwdGVyLnNldHVwV2l0aEJvdHRvbU5hdmlnYXRpb24oYm90dG9tQmFyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoKGN1cnJlbmN5QW1vdW50SW5wdXQpIHsKICAgICAgICAgICAgc2V0T25XYWxsZXRTZWxlY3RlZExpc3RlbmVyIHsgd2FsbGV0IC0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGFwdGVyLnNldHVwV2l0aEJvdHRvbU5hdmlnYXRpb24oYm90dG9tQmFyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
