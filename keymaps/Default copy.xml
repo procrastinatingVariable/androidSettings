@@ -20,9 +20,11 @@
   </action>
   <action id="ChangesView.UnshelveSilently" />
   <action id="ChooseDebugConfiguration" />
+  <action id="CollapseBlock" />
   <action id="CollapseDocComments">
     <keyboard-shortcut first-keystroke="alt subtract" second-keystroke="c" />
   </action>
+  <action id="CollapseSelection" />
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="alt d" second-keystroke="alt c" />
   </action>
@@ -36,6 +38,19 @@
   </action>
   <action id="Debugger.FilterArray">
     <keyboard-shortcut first-keystroke="alt d" second-keystroke="f" />
+  </action>
+  <action id="EditorChooseLookupItemDot" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="ctrl e" />
