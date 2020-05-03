@@ -97,8 +97,8 @@
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/dialog/WalletPickerDialogFragment.kt" timestamp="1588516467845">
         <mark key="'" line="39" column="45" />
       </file>
-      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/currencies/balance/CurrencyBalancesFragment.kt" timestamp="1588514973690">
-        <mark key="'" line="13" column="28" />
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/currencies/balance/CurrencyBalancesFragment.kt" timestamp="1588517798836">
+        <mark key="'" line="63" column="65" />
       </file>
       <file name="/Kotlin Console" timestamp="1588338139485">
         <mark key="[" line="0" column="0" />
@@ -184,6 +184,7 @@
       <jump line="62" column="22" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/wallets/WalletAdapter.kt" />
       <jump line="28" column="46" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/wallets/WalletAdapter.kt" />
       <jump line="39" column="45" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/dialog/WalletPickerDialogFragment.kt" />
+      <jump line="63" column="65" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/currencies/balance/CurrencyBalancesFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
