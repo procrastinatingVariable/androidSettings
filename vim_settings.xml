@@ -144,6 +144,9 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/presenter/common/InitialDataPresenter.kt" timestamp="1588602695389">
+        <mark key="'" line="20" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="88" column="40" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferFragment.kt" />
@@ -200,6 +203,7 @@
       <jump line="10" column="36" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/RemoveWalletUseCase.kt" />
       <jump line="38" column="7" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/deposit/DepositDetailsFragment.kt" />
       <jump line="75" column="51" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/deposit/DepositDetailsFragment.kt" />
+      <jump line="20" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/presenter/common/InitialDataPresenter.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
