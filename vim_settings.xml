@@ -90,6 +90,9 @@
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/res/layout/dialog_wallet_picker.xml" timestamp="1588514943231">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/deposit/CreateDepositUseCase.kt" timestamp="1588690298488">
+        <mark key="'" line="19" column="72" />
+      </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/currencies/balance/CurrencyBalancesFragment.kt" timestamp="1588536967116">
         <mark key="'" line="27" column="4" />
       </file>
@@ -98,9 +101,6 @@
       </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/currencies/activity/ActivitySummaryViewModel.kt" timestamp="1588511533483">
         <mark key="'" line="5" column="53" />
-      </file>
-      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/currencies/UserCurrenciesViewPagerAdapter.kt" timestamp="1588511481340">
-        <mark key="'" line="12" column="33" />
       </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/wallets/WalletAdapter.kt" timestamp="1588515457286">
         <mark key="'" line="28" column="46" />
@@ -111,8 +111,8 @@
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/deposit/DepositDetailsFragment.kt" timestamp="1588678221562">
         <mark key="'" line="196" column="8" />
       </file>
-      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/presenter/DepositDetailsPresenter.kt" timestamp="1588687632318">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/presenter/DepositDetailsPresenter.kt" timestamp="1588690421165">
+        <mark key="'" line="179" column="24" />
       </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/rest/DTDApi.kt" timestamp="1588679491192">
         <mark key="'" line="116" column="38" />
@@ -232,6 +232,9 @@
       <jump line="16" column="5" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/transfers/GetTransferFeeV2UseCase.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/presenter/DepositDetailsPresenter.kt" />
       <jump line="7" column="100" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/GetDepositFeeUseCase.kt" />
+      <jump line="13" column="36" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/deposit/CreateDepositUseCase.kt" />
+      <jump line="19" column="72" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/deposit/CreateDepositUseCase.kt" />
+      <jump line="179" column="24" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/presenter/DepositDetailsPresenter.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
