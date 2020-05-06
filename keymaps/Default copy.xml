@@ -61,6 +61,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="alt d" second-keystroke="alt b" />
+  </action>
   <action id="Git.Stash">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt s" />
   </action>
