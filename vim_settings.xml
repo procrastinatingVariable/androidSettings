@@ -108,8 +108,8 @@
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/presenter/withdraw/bankcard/WithdrawToBankCardDetailsPresenter.kt" timestamp="1588764775559">
         <mark key="'" line="39" column="12" />
       </file>
-      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/presenter/DepositDetailsPresenter.kt" timestamp="1588690421165">
-        <mark key="'" line="179" column="24" />
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/convert/ConversionSuccessFragment.kt" timestamp="1589020254588">
+        <mark key="'" line="46" column="46" />
       </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/withdraw/CreateWithdrawalUseCase.kt" timestamp="1588764390303">
         <mark key="'" line="24" column="78" />
@@ -143,7 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="61" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/dialog/WalletPickerDialogFragment.kt" />
       <jump line="19" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/dialog/WalletPickerDialogFragment.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/res/layout/dialog_wallet_picker.xml" />
       <jump line="13" column="28" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/currencies/balance/CurrencyBalancesFragment.kt" />
@@ -243,6 +242,7 @@
       <jump line="186" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/convert/ConvertViewModel.kt" />
       <jump line="5" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/rest/model/ConvertResponse.kt" />
       <jump line="173" column="8" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/convert/ConvertViewModel.kt" />
+      <jump line="46" column="46" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/convert/ConversionSuccessFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
