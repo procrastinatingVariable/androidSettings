@@ -84,8 +84,8 @@
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/rest/model/GetWalletsBalanceResponse.kt" timestamp="1589192968569">
         <mark key="'" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/storage/Prefs.kt" timestamp="1589193507223">
-        <mark key="'" line="44" column="4" />
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/storage/Prefs.kt" timestamp="1589194897869">
+        <mark key="'" line="120" column="1" />
       </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/convert/ConvertViewModel.kt" timestamp="1589017972390">
         <mark key="'" line="173" column="8" />
@@ -143,7 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="51" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/deposit/DepositDetailsFragment.kt" />
       <jump line="20" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/presenter/common/InitialDataPresenter.kt" />
       <jump line="10" column="45" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/ActivateWalletUseCase.kt" />
       <jump line="9" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/ActivateWalletUseCase.kt" />
@@ -243,6 +242,7 @@
       <jump line="127" column="73" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/presenter/HomeScreenPresenter.kt" />
       <jump line="103" column="19" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/storage/Prefs.kt" />
       <jump line="44" column="4" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/storage/Prefs.kt" />
+      <jump line="120" column="1" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/storage/Prefs.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
