@@ -105,11 +105,11 @@
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/res/drawable/ic_settings.xml" timestamp="1589263302507">
         <mark key="'" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/res/drawable/ic_line_arrow_round.xml" timestamp="1589273221577">
+        <mark key="'" line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/convert/ConvertViewModel.kt" timestamp="1589017972390">
         <mark key="'" line="173" column="8" />
-      </file>
-      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/GetConversionRatesUseCase.kt" timestamp="1588893846829">
-        <mark key="'" line="14" column="8" />
       </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/GetMainWalletUseCase.kt" timestamp="1589205351824">
         <mark key="'" line="17" column="0" />
@@ -143,7 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="4" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/GetMinimumAllowedDepositUseCase.kt" />
       <jump line="116" column="38" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/rest/DTDApi.kt" />
       <jump line="7" column="100" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/GetMinimumAllowedDepositUseCase.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/GetMinimumAllowedDepositUseCase.kt" />
@@ -243,6 +242,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/res/drawable/ic_settings.xml" />
       <jump line="2" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/res/drawable/ic_settings.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/res/drawable/ic_support.xml" />
+      <jump line="7" column="32" filename="$USER_HOME$/Android/lexon-pay/app/src/main/res/drawable/ic_line_arrow_round.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
