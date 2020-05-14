@@ -99,9 +99,6 @@
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/res/xml/scene_dashboard_header.xml" timestamp="1589391536911">
         <mark key="'" line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/res/drawable/ic_convert.xml" timestamp="1589276218543">
-        <mark key="'" line="5" column="59" />
-      </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/confirm/ConfirmTransferViewModel.kt" timestamp="1589286708525">
         <mark key="'" line="36" column="8" />
       </file>
@@ -119,6 +116,9 @@
       </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/res/drawable/ic_deposit.xml" timestamp="1589279886886">
         <mark key="'" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/util/history/TransactionDetailsEntityMapper.kt" timestamp="1589447267737">
+        <mark key="'" line="29" column="71" />
       </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/dashboard/HomeScreenFragment.kt" timestamp="1589286943785">
         <mark key="'" line="114" column="0" />
@@ -143,11 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="60" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/convert/ConvertViewModel.kt" />
-      <jump line="167" column="58" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/convert/ConvertViewModel.kt" />
-      <jump line="186" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/convert/ConvertViewModel.kt" />
-      <jump line="5" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/rest/model/ConvertResponse.kt" />
-      <jump line="173" column="8" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/convert/ConvertViewModel.kt" />
       <jump line="46" column="46" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/convert/ConversionSuccessFragment.kt" />
       <jump line="47" column="13" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/wallets/WalletAdapter.kt" />
       <jump line="57" column="13" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/wallets/WalletAdapter.kt" />
@@ -243,6 +238,11 @@
       <jump line="10" column="29" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/rest/model/GetTransferDetailsResponse.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/rest/model/GetTransferDetailsResponse.kt" />
       <jump line="227" column="22" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/TransactionDetailsFragment.kt" />
+      <jump line="162" column="167" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/util/history/TransactionDetailsEntityMapper.kt" />
+      <jump line="81" column="149" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/util/history/TransactionDetailsEntityMapper.kt" />
+      <jump line="53" column="105" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/util/history/TransactionDetailsEntityMapper.kt" />
+      <jump line="33" column="41" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/util/history/TransactionDetailsEntityMapper.kt" />
+      <jump line="29" column="71" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/util/history/TransactionDetailsEntityMapper.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
