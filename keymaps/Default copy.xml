@@ -40,6 +40,22 @@
     <keyboard-shortcut first-keystroke="alt d" second-keystroke="f" />
   </action>
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl alt period" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift home" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
+  </action>
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
@@ -70,6 +86,7 @@
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt u" />
   </action>
+  <action id="GotoCustomRegion" />
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="ctrl u" />
     <keyboard-shortcut first-keystroke="ctrl alt u" />
