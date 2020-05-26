@@ -105,8 +105,8 @@
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/CheckPasswordUseCase.kt" timestamp="1590065899874">
         <mark key="'" line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/transfers/SyncContactsUseCase.kt" timestamp="1589953589516">
-        <mark key="'" line="35" column="16" />
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/transfers/SyncContactsUseCase.kt" timestamp="1590492756482">
+        <mark key="'" line="38" column="33" />
       </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/di/component/ApplicationComponent.kt" timestamp="1590040394602">
         <mark key="'" line="76" column="107" />
@@ -143,7 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="1" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/di/component/FragmentComponents.kt" />
       <jump line="202" column="20" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/di/component/FragmentComponents.kt" />
       <jump line="287" column="34" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/TransactionDetailsFragment.kt" />
       <jump line="14" column="16" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/CheckHostUseCase.kt" />
@@ -243,6 +242,7 @@
       <jump line="19" column="8" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/updatephonenumber/UpdateVerifySuccessFragment.kt" />
       <jump line="15" column="9" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/storage/ContactsManager.kt" />
       <jump line="16" column="8" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/storage/ContactsManager.kt" />
+      <jump line="38" column="33" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/transfers/SyncContactsUseCase.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
