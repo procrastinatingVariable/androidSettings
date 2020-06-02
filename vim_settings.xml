@@ -90,8 +90,8 @@
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/updatephonenumber/UpdateVerifyPhoneNumberFragment.kt" timestamp="1590407497266">
         <mark key="'" line="114" column="35" />
       </file>
-      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/activity/UpdatePhoneNumberActivity.kt" timestamp="1590357036753">
-        <mark key="'" line="44" column="0" />
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferAmountFragment.kt" timestamp="1591101319912">
+        <mark key="'" line="102" column="16" />
       </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/res/values/strings.xml" timestamp="1590501876325">
         <mark key="'" line="809" column="103" />
@@ -143,7 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/view/SpacerDecoration.kt" />
       <jump line="16" column="23" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/view/SpacerDecoration.kt" />
       <jump line="21" column="37" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/view/SpacerDecoration.kt" />
       <jump line="224" column="32" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/TransactionDetailsFragment.kt" />
@@ -243,6 +242,7 @@
       <jump line="59" column="31" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferAmountViewModel.kt" />
       <jump line="19" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/ContactTransferAmountViewModel.kt" />
       <jump line="54" column="20" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/ContactTransferAmountViewModel.kt" />
+      <jump line="102" column="16" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferAmountFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
