@@ -137,6 +137,9 @@
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="alt y" second-keystroke="f" />
   </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="alt f" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
