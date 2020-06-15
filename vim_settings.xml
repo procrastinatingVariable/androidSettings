@@ -84,9 +84,6 @@
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/TransferAmountViewModel.kt" timestamp="1591099021688">
         <mark key="'" line="59" column="31" />
       </file>
-      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/res/values-pt/strings.xml" timestamp="1591089461597">
-        <mark key="'" line="244" column="4" />
-      </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/res/values-ru/strings.xml" timestamp="1591089473557">
         <mark key="'" line="310" column="44" />
       </file>
@@ -102,11 +99,11 @@
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/presenter/withdraw/WithdrawBaseDetailsPresenter.kt" timestamp="1591095817834">
         <mark key="'" line="252" column="12" />
       </file>
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/activity/VerifyIdentityActivity.kt" timestamp="1592226914496">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/res/drawable/btn_bottom_nav_settings.xml" timestamp="1591269144346">
         <mark key="'" line="2" column="49" />
-      </file>
-      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/res/values-it/strings.xml" timestamp="1591089436117">
-        <mark key="'" line="216" column="44" />
       </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/GetSuggestedEnvUseCase.kt" timestamp="1591868229906">
         <mark key="'" line="17" column="0" />
@@ -119,6 +116,9 @@
       </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/res/layout/transation_list_item_content.xml" timestamp="1591269935530">
         <mark key="'" line="28" column="31" />
+      </file>
+      <file name="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/verification/NetverifyFragment.kt" timestamp="1592226896608">
+        <mark key="'" line="158" column="17" />
       </file>
       <file name="$USER_HOME$/Android/lexon-pay/app/src/main/res/layout/fragment_send_or_request.xml" timestamp="1591448015487">
         <mark key="'" line="0" column="0" />
@@ -143,8 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="12" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/WalletTransferAmountFragment.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/WalletTransferAmountFragment.kt" />
       <jump line="63" column="1" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/WalletTransferAmountFragment.kt" />
       <jump line="57" column="1" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/WalletTransferAmountFragment.kt" />
       <jump line="43" column="30" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/transfer/ContactTransferAmountFragment.kt" />
@@ -243,6 +241,8 @@
       <jump line="17" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/usecase/GetSuggestedEnvUseCase.kt" />
       <jump line="37" column="15" filename="$USER_HOME$/Android/lexon-pay/app/build.gradle" />
       <jump line="35" column="16" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/presenter/OutgoingTransactionDetailsPresenter.kt" />
+      <jump line="158" column="17" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/fragment/verification/NetverifyFragment.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Android/lexon-pay/app/src/main/java/com/luxonpayments/dtdwallet/ui/activity/VerifyIdentityActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
