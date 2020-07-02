@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Groovy/Groovy-style/Format closing closure braces in one line" />
+  </component>
+</application>
