@@ -2,12 +2,4 @@
   <component name="DependencyUISettings">
     <option name="UI_FILTER_OUT_OF_CYCLE_PACKAGES" value="false" />
   </component>
-  <component name="UISettings">
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="27" />
-    <option name="MAX_LOOKUP_WIDTH2" value="1202" />
-    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
-    <option name="SHOW_MAIN_TOOLBAR" value="true" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="smoothScrolling" value="true" />
-  </component>
 </application>
