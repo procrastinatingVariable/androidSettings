@@ -118,9 +118,17 @@
           <option name="url" value="https://github.com/android/testing-samples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:softbinator/careers-in-white/ciw-mobileapp/cw_android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/softbinator/careers-in-white/ciw-mobileapp/cw_android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Gabriel\Android" />
+    <option name="cloneParentDir" value="C:\Users\Gabriel\StudioProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
