@@ -80,12 +80,6 @@
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="alt d" second-keystroke="alt b" />
   </action>
-  <action id="Git.Stash">
-    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt s" />
-  </action>
-  <action id="Git.Unstash">
-    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt u" />
-  </action>
   <action id="GotoCustomRegion" />
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="ctrl u" />
