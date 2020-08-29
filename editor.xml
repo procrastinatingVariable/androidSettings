@@ -11,7 +11,8 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="Hack" />
+    <option name="FONT_FAMILY" value="JetBrains Mono" />
+    <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Monospaced" />
   </component>
   <component name="EditorSettings">
