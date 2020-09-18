@@ -29,4 +29,11 @@
       <option name="JSP" value="false" />
     </context>
   </template>
+  <template name="T" value="&lt;$SELECTION$&gt;" description="Surround with &lt;&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
