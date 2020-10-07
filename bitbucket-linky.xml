@@ -13,5 +13,8 @@
     <event name="CreatePullRequest" place="GoToAction" timestamp="2020-10-07T07:12:09.174Z">
       <attribute name="bitbucket">cloud</attribute>
     </event>
+    <event name="CreatePullRequest" place="GoToAction" timestamp="2020-10-07T07:35:40.296Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
   </component>
 </application>
