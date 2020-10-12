@@ -4,8 +4,8 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="2019" type="PLAIN_TEXT" />
-      <mapping pattern="2018" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+      <mapping pattern="2018" type="PLAIN_TEXT" />
       <mapping ext="dmp" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="realm" type="PLAIN_TEXT" />
