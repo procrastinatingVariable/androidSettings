@@ -2,8 +2,22 @@
   <component name="VisualizationTool">
     <option name="state">
       <GlobalState>
+        <option name="configurationSetName" value="CUSTOM" />
+        <option name="customConfigurationAttributes">
+          <list>
+            <CustomConfigurationAttribute>
+              <option name="apiLevel" value="30" />
+              <option name="deviceId" value="4in WVGA (Nexus S)" />
+              <option name="name" value="Preview" />
+              <option name="nightMode" value="NOTNIGHT" />
+              <option name="orientation" value="PORTRAIT" />
+              <option name="theme" value="AnnouncementsDialog" />
+              <option name="uiMode" value="NORMAL" />
+            </CustomConfigurationAttribute>
+          </list>
+        </option>
         <option name="firstTimeOpen" value="false" />
-        <option name="scale" value="0.33" />
+        <option name="scale" value="0.27375449409347713" />
       </GlobalState>
     </option>
   </component>
