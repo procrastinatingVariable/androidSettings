@@ -7,9 +7,6 @@
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="ChangesView.UnshelveSilently" />
-  <action id="FileChooser.LightEditGotoOpenedFile">
-    <keyboard-shortcut first-keystroke="shift meta s" />
-  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="ctrl s" />
@@ -40,6 +37,9 @@
   <action id="Replace" />
   <action id="ResourceExplorer.show" />
   <action id="SaveAll" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="ServiceView.ShowServices" />
   <action id="UsageGrouping.FileStructure" />
   <action id="Vcs.Log.Refresh" />
