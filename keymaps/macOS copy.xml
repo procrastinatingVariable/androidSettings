@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="meta s" second-keystroke="meta g" />
+  </action>
   <action id="GotoTest" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
@@ -9,5 +12,12 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="ResourceExplorer.show" />
+  <action id="SaveAll" />
   <action id="ServiceView.ShowServices" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
 </keymap>
