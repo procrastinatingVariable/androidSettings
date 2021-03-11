@@ -1,19 +1,59 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Android.CleanRun" />
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="meta s" second-keystroke="meta g" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="ChangesView.UnshelveSilently" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="meta alt u" />
+  </action>
+  <action id="Github.PullRequest.Changes.Reload" />
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
+  <action id="Github.PullRequest.Timeline.Update" />
   <action id="GotoTest" />
+  <action id="InvalidateCaches">
+    <keyboard-shortcut first-keystroke="meta r" second-keystroke="meta r" />
+  </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="meta alt s" second-keystroke="h" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="meta alt s" second-keystroke="v" />
+  </action>
+  <action id="ProjectView.ShowMembers">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt m" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="Refresh" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="Replace" />
   <action id="ResourceExplorer.show" />
+  <action id="SaveAll" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="ServiceView.ShowServices" />
+  <action id="UsageGrouping.FileStructure" />
+  <action id="Vcs.Log.Refresh" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
+  <action id="hg4idea.QRefresh" />
 </keymap>
