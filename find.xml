@@ -1,15 +1,15 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Non-generated" />
+    <option name="defaultScopeName" value="Non-generated" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
+    <option name="SEARCH_SCOPE" value="Non-generated" />
+    <option name="FILE_MASK" value="*.java,*.kt" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -38,6 +38,7 @@
     <mask>*.kt</mask>
     <mask>*.kt, *.java</mask>
     <mask>*.xml</mask>
+    <mask>I</mask>
     <mask>*.java,*.kt</mask>
   </component>
 </application>
