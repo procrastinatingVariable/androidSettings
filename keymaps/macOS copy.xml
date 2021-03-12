@@ -8,6 +8,7 @@
   </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.UnshelveSilently" />
+  <action id="ClassNameCompletion" />
   <action id="Exit" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
@@ -48,6 +49,9 @@
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="QuickTypeDefinition">
+    <keyboard-shortcut first-keystroke="ctrl alt space" />
   </action>
   <action id="Refresh" />
   <action id="ReopenClosedTab">
