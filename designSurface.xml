@@ -8,6 +8,7 @@
         <entry key="app/src/main/res/drawable/splash.xml" value="0.3398148148148148" />
         <entry key="app/src/main/res/layout/activity__main.xml" value="0.1945288753799392" />
         <entry key="app/src/main/res/layout/activity__start.xml" value="0.37092391304347827" />
+        <entry key="app/src/main/res/layout/button__no.xml" value="0.21105072463768115" />
         <entry key="app/src/main/res/layout/button__result.xml" value="0.1945288753799392" />
         <entry key="app/src/main/res/layout/button__yes.xml" value="0.25" />
         <entry key="app/src/main/res/layout/card__yes_no.xml" value="0.11195542046605876" />
