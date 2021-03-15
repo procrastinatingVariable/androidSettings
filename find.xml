@@ -11,6 +11,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Non-generated" />
+    <option name="FILE_MASK" value="*.java,*.kt" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
