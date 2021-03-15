@@ -1,14 +1,14 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="Android.CleanRun" />
-  <action id="Android.SyncProject">
-    <keyboard-shortcut first-keystroke="meta s" second-keystroke="meta g" />
-  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="ClassNameCompletion" />
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Exit" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />

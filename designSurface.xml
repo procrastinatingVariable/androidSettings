@@ -4,6 +4,8 @@
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic__checkbox__yes_animation.xml" value="0.3223958333333333" />
+        <entry key="app/src/main/res/drawable/ic__heart_24dp.xml" value="0.27291666666666664" />
+        <entry key="app/src/main/res/drawable/ic__transparent.xml" value="0.27291666666666664" />
         <entry key="app/src/main/res/drawable/ic__yes_checkbox.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/splash.xml" value="0.3398148148148148" />
         <entry key="app/src/main/res/layout/activity__main.xml" value="0.1945288753799392" />
