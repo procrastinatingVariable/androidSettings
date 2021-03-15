@@ -13,10 +13,13 @@
         <entry key="app/src/main/res/layout/button__no.xml" value="0.21105072463768115" />
         <entry key="app/src/main/res/layout/button__result.xml" value="0.1945288753799392" />
         <entry key="app/src/main/res/layout/button__yes.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/card__exit.xml" value="0.20104166666666667" />
+        <entry key="app/src/main/res/layout/card__open_answer.xml" value="0.20104166666666667" />
         <entry key="app/src/main/res/layout/card__yes_no.xml" value="0.21105072463768115" />
         <entry key="app/src/main/res/layout/fragment__about.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment__overview.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment__overview_nav.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/title.xml" value="0.20104166666666667" />
         <entry key="sample/src/main/res/layout/main_screen.xml" value="0.3582427536231884" />
       </map>
     </option>
