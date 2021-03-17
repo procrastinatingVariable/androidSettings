@@ -23,7 +23,7 @@
         <entry key="app/src/main/res/layout/card__yes_no.xml" value="0.21105072463768115" />
         <entry key="app/src/main/res/layout/fragment__about.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment__overview.xml" value="1.0" />
-        <entry key="app/src/main/res/layout/fragment__overview_nav.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/fragment__overview_nav.xml" value="1.0" />
         <entry key="app/src/main/res/layout/fragment__quiz.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/tile__thumb_down.xml" value="0.14130434782608695" />
         <entry key="app/src/main/res/layout/tile__thumb_up.xml" value="0.1838768115942029" />
