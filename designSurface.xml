@@ -17,7 +17,7 @@
         <entry key="app/src/main/res/layout/button__poll_result.xml" value="0.21920289855072464" />
         <entry key="app/src/main/res/layout/button__result.xml" value="0.1945288753799392" />
         <entry key="app/src/main/res/layout/button__yes.xml" value="0.21920289855072464" />
-        <entry key="app/src/main/res/layout/card__cover.xml" value="0.17527173913043478" />
+        <entry key="app/src/main/res/layout/card__cover.xml" value="0.18439716312056736" />
         <entry key="app/src/main/res/layout/card__exit.xml" value="0.20104166666666667" />
         <entry key="app/src/main/res/layout/card__open_answer.xml" value="0.20104166666666667" />
         <entry key="app/src/main/res/layout/card__poll.xml" value="0.21920289855072464" />
@@ -26,6 +26,7 @@
         <entry key="app/src/main/res/layout/fragment__overview.xml" value="0.21625846795205836" />
         <entry key="app/src/main/res/layout/fragment__overview_nav.xml" value="0.20652173913043478" />
         <entry key="app/src/main/res/layout/fragment__quiz.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/media.xml" value="0.18439716312056736" />
         <entry key="app/src/main/res/layout/tile__thumb_down.xml" value="0.14130434782608695" />
         <entry key="app/src/main/res/layout/tile__thumb_up.xml" value="0.1838768115942029" />
         <entry key="app/src/main/res/layout/title.xml" value="0.20104166666666667" />
