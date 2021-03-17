@@ -9,7 +9,7 @@
         <entry key="app/src/main/res/drawable/ic__yes_checkbox.xml" value="0.3223958333333333" />
         <entry key="app/src/main/res/drawable/progress_yes_offset_drultranyt.xml" value="0.2790514005799488" />
         <entry key="app/src/main/res/drawable/splash.xml" value="0.3398148148148148" />
-        <entry key="app/src/main/res/layout/activity__main.xml" value="0.20652173913043478" />
+        <entry key="app/src/main/res/layout/activity__main.xml" value="1.0" />
         <entry key="app/src/main/res/layout/activity__start.xml" value="0.37092391304347827" />
         <entry key="app/src/main/res/layout/button__no.xml" value="0.21105072463768115" />
         <entry key="app/src/main/res/layout/button__poll2.xml" value="0.21920289855072464" />
@@ -21,7 +21,7 @@
         <entry key="app/src/main/res/layout/card__poll.xml" value="0.21920289855072464" />
         <entry key="app/src/main/res/layout/card__yes_no.xml" value="0.21105072463768115" />
         <entry key="app/src/main/res/layout/fragment__about.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/fragment__overview.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/fragment__overview.xml" value="1.0" />
         <entry key="app/src/main/res/layout/fragment__overview_nav.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/layout/fragment__quiz.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/tile__thumb_down.xml" value="0.14130434782608695" />
