@@ -26,6 +26,7 @@
         <entry key="app/src/main/res/layout/fragment__overview.xml" value="0.21625846795205836" />
         <entry key="app/src/main/res/layout/fragment__overview_nav.xml" value="0.20652173913043478" />
         <entry key="app/src/main/res/layout/fragment__quiz.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/fragment__settings.xml" value="0.1" />
         <entry key="app/src/main/res/layout/media.xml" value="0.18439716312056736" />
         <entry key="app/src/main/res/layout/tile__thumb_down.xml" value="0.14130434782608695" />
         <entry key="app/src/main/res/layout/tile__thumb_up.xml" value="0.1838768115942029" />
