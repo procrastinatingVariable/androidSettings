@@ -20,6 +20,7 @@
         <entry key="app/src/main/res/layout/button__yes.xml" value="0.21920289855072464" />
         <entry key="app/src/main/res/layout/card__cover.xml" value="0.18439716312056736" />
         <entry key="app/src/main/res/layout/card__exit.xml" value="0.20104166666666667" />
+        <entry key="app/src/main/res/layout/card__multi_choice.xml" value="0.16847826086956522" />
         <entry key="app/src/main/res/layout/card__open_answer.xml" value="0.20104166666666667" />
         <entry key="app/src/main/res/layout/card__poll.xml" value="0.21920289855072464" />
         <entry key="app/src/main/res/layout/card__yes_no.xml" value="0.21105072463768115" />
