@@ -22,7 +22,7 @@
         <entry key="app/src/main/res/layout/card__exit.xml" value="0.20104166666666667" />
         <entry key="app/src/main/res/layout/card__multi_choice.xml" value="0.16847826086956522" />
         <entry key="app/src/main/res/layout/card__open_answer.xml" value="0.20104166666666667" />
-        <entry key="app/src/main/res/layout/card__poll.xml" value="0.15678643366433437" />
+        <entry key="app/src/main/res/layout/card__poll.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/layout/card__yes_no.xml" value="0.21105072463768115" />
         <entry key="app/src/main/res/layout/fragment__about.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment__overview.xml" value="0.21625846795205836" />
