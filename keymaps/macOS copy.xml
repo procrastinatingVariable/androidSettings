@@ -1,5 +1,8 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="Android.CleanRun" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="FileChooser.LightEditGotoOpenedFile">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
