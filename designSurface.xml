@@ -20,14 +20,14 @@
         <entry key="app/src/main/res/layout/button__yes.xml" value="0.21920289855072464" />
         <entry key="app/src/main/res/layout/card__cover.xml" value="0.18439716312056736" />
         <entry key="app/src/main/res/layout/card__exit.xml" value="0.20104166666666667" />
-        <entry key="app/src/main/res/layout/card__multi_choice.xml" value="0.16847826086956522" />
+        <entry key="app/src/main/res/layout/card__multi_choice.xml" value="0.24547101449275363" />
         <entry key="app/src/main/res/layout/card__open_answer.xml" value="0.20104166666666667" />
         <entry key="app/src/main/res/layout/card__poll.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/layout/card__yes_no.xml" value="0.21105072463768115" />
         <entry key="app/src/main/res/layout/fragment__about.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment__overview.xml" value="0.21625846795205836" />
         <entry key="app/src/main/res/layout/fragment__overview_nav.xml" value="0.20652173913043478" />
-        <entry key="app/src/main/res/layout/fragment__quiz.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/fragment__quiz.xml" value="0.22135416666666666" />
         <entry key="app/src/main/res/layout/fragment__settings.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment__start.xml" value="0.18768996960486323" />
         <entry key="app/src/main/res/layout/media.xml" value="0.18439716312056736" />
