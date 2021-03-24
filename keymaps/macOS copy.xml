@@ -5,6 +5,7 @@
   </action>
   <action id="FileChooser.LightEditGotoOpenedFile">
     <keyboard-shortcut first-keystroke="shift meta s" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
   <action id="Github.PullRequest.Changes.Reload" />
   <action id="Github.PullRequest.Comments.Reload" />
