@@ -41,6 +41,7 @@
         <entry key="app/src/main/res/layout/title.xml" value="0.20104166666666667" />
         <entry key="app/src/main/res/layout/title_subtitle.xml" value="0.335" />
         <entry key="app/src/main/res/layout/wallpaper.xml" value="0.19384057971014493" />
+        <entry key="app/src/main/res/layout/wallpaper_clickable.xml" value="0.1721014492753623" />
         <entry key="expandablelayout/src/main/res/layout/expandable_layout_frame.xml" value="0.26902173913043476" />
         <entry key="sample/src/main/res/layout/main_screen.xml" value="0.3582427536231884" />
       </map>
