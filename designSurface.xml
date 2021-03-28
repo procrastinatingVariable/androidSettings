@@ -27,8 +27,9 @@
         <entry key="app/src/main/res/layout/card__open_answer.xml" value="0.20104166666666667" />
         <entry key="app/src/main/res/layout/card__poll.xml" value="0.24791666666666667" />
         <entry key="app/src/main/res/layout/card__yes_no.xml" value="0.21105072463768115" />
-        <entry key="app/src/main/res/layout/fragment__about.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/fragment__overview.xml" value="0.4302059496567506" />
+        <entry key="app/src/main/res/layout/fragment__about.xml" value="0.1721014492753623" />
+        <entry key="app/src/main/res/layout/fragment__dummy.xml" value="0.1721014492753623" />
+        <entry key="app/src/main/res/layout/fragment__overview.xml" value="0.36637931034482757" />
         <entry key="app/src/main/res/layout/fragment__overview_nav.xml" value="0.20652173913043478" />
         <entry key="app/src/main/res/layout/fragment__quiz.xml" value="0.22135416666666666" />
         <entry key="app/src/main/res/layout/fragment__settings.xml" value="0.1" />
